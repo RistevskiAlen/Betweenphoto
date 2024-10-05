@@ -17,7 +17,7 @@ body {
 }
 
 .main-title {
-  font-size: clamp(2.8rem, 5vw, 4.6875rem);
+  font-size: clamp(2rem, 5vw, 4.6875rem);
   font-weight: 700;
   margin: 1rem 0;
   text-align: center;
